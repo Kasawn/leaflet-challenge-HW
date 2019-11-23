@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+const API_KEY = "pk.eyJ1Ijoia2FzYXduIiwiYSI6ImNrMnBiaTJ6MzAya3EzbW1uamVwYzhjbjYifQ.Ly35hrF4gAnPApz6oPBhmg"
